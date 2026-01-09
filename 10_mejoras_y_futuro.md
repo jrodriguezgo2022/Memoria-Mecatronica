@@ -6,7 +6,7 @@ Ahora mismo el robot es totalmente funcional, sin embargo tiene un peso algo alt
 
 PCB
 
-El introducir una pcb reduce mucho la complejidad de cables necesaria para el robot. Podríamos hacer conexiones personalizadas tanto para los ultrasonidos como para el botón.
+El introducir una pcb reduce mucho la complejidad de cables necesaria para el robot. Podríamos hacer conexiones personalizadas tanto para los ultrasonidos como para los botones.
 
 CAMBIO DE SENSOR
 

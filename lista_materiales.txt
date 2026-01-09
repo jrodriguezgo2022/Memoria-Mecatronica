@@ -1,0 +1,15 @@
+Arduino Mega
+12 Standard Parallax Servo Motor
+1 Sg90 Micro Servo Motor
+2 Ultrasonic Sensor HC-SR04
+3 LED
+3 resistors 220 ohm
+3 Buttons
+2 Protoboard
+1 PCA9685 16-Channel 12-bit PWM Servo Driver
+Cables
+1 Battery NiMH 6V
+1 Battery Holder for 2 AA Batteries
+The 3D printed parts of the robot
+Screws, nuts and washers for assembly
+Velcro strip
