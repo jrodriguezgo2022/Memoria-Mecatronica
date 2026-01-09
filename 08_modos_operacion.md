@@ -29,6 +29,4 @@ Durante la ejecución de la tarea, se encenderá el led azul. Si se vuelve a pul
 ## VIDEO DEMONSTRACIÓN
 
 
-<img src="./videos/patrones_botones_1.gif" width="400">
-
-<img src="./videos/patrones_botones_2.gif" width="400">
+![Video Auxiliar](./videos/patrones_botones_1_small.gif)
