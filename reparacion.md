@@ -1,8 +1,13 @@
+# REPARACIÓN DE COMPONENTES
+
 En este apartado introduciré como repara algunos componentes.
 
-En el caso de que el componente no pertenezca a la pata. si el componente se encuentra en la base inferior, bastará con desatornillar la placa superior. En caso de que sea de la parte superior, bastará con retirarlo y remplazarlo.
+## COMPONENTES BASE
 
-En el caso de que sea parte de la pata seguimos el siguiente procedimiento:
+ si el componente se encuentra en la base inferior, bastará con desatornillar la placa superior. En caso de que sea de la parte superior, bastará con retirarlo y remplazarlo.
+
+
+## CAMBIO DEL MOTOR 2 DE LA PATA
 
 En primer lugar desatornillamos la parte superior.
 
@@ -36,7 +41,15 @@ Por último atornillar la tapa superior.
 
 <img src="./reparation_img/paso_8.jpeg" width="400">
 
-En caso de que sea el motor interior.
+## CAMBIO DEL MOTOR 1 DE LA PATA
+
+En primer lugar desatornillamos la parte superior.
+
+<img src="./reparation_img/paso_1.jpeg" width="400">
+
+A continucación extraemos la pata afectada.
+
+<img src="./reparation_img/paso_2.jpeg" width="400">
 
 En primer lugar destornillar la base del motor.
 

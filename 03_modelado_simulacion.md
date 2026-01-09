@@ -19,3 +19,5 @@ El robot inicia con tres patas levantadas.
 6. Levanta las tres iniciales
 7. Y mueve las otras tres hacia su posición inicial
 8. Repite.
+
+![Marcha robot](./videos/marcha_robot.gif)
