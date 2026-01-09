@@ -1,15 +1,16 @@
 Arduino Mega
 12 Standard Parallax Servo Motor
 1 Sg90 Micro Servo Motor
-2 Ultrasonic Sensor HC-SR04
+2 Sensor de ultrasonidos HC-SR04
 3 LED
-3 resistors 220 ohm
-3 Buttons
+3 resistencias 220 ohm
+3 Botonoes
 2 Protoboard
 1 PCA9685 16-Channel 12-bit PWM Servo Driver
 Cables
-1 Battery NiMH 6V
-1 Battery Holder for 2 AA Batteries
-The 3D printed parts of the robot
-Screws, nuts and washers for assembly
-Velcro strip
+1 Bateria NiMH 6V 2400mAh
+1 Soporte de baterias para 2 pilas AA
+Las partes impresas en 3D
+Tornillos, tuercas y arandelas
+Tiras de velcro
+2 Bridas
