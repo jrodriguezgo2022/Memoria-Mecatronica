@@ -4,4 +4,4 @@ Para el control de los motores hemos necesitado un componente adicional para el 
 
 Y el esquema usado en la Arduino Mega el siguiente:
 
-<img src="./esquema_electrico/ARDUINO_CONNECTIONS_bb.jpg" width="300">
+<img src="./esquema_electrico/ARDUINO_CONNECTIONS_bb.png" width="300">
