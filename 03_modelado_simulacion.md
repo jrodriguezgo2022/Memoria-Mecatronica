@@ -1,6 +1,6 @@
 En cuanto a simulación: el único sistema móvil que tenemos en el robot son las seis patas. Añado un gif de su funcionamiento.
 
-
+[Movimiento pata](./images/leg_movement.gif)
 
 
 Como podemos observar se trata de una pata con dos grados de libertad, lo que nos permite realizar giros y cambiar la altura del extremo más cercano al piso.
